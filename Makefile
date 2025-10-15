@@ -20,8 +20,6 @@ OBJ_DIR = build
 
 
 SRC_FILES = main.c \
-			test.c \
-
 
 
 SRC = $(addprefix $(SRC_PATH)/,$(SRC_FILES))
